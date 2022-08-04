@@ -1,4 +1,4 @@
-# python-template
+# Analysis project for the module Anwendungsfelder Business Analytics
 
 ## Visual Studio Code
 
